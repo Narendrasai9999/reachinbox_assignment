@@ -1,6 +1,6 @@
 # ReachInbox Assignment - Frontend Engineer
 The application is hosted and can be accessed at:  
-[Live Demo](https://reachinboxnarendrasaiassignment-2qwn20a6f.vercel.app/onebox)
+[Live Demo](https://reachinbox-assignment-2lxfbl89v-narendra-sais-projects-6cd66ea7.vercel.app/)
 ## Project Overview
 
 This project is part of the hiring process for the Associate - Frontend Engineer position at ReachInbox.ai. The assignment involves developing a web application based on provided designs and APIs, focusing on functionalities like login, data fetching, keyboard shortcuts, and a custom text editor.
