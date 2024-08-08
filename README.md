@@ -58,7 +58,7 @@ This project is part of the hiring process for the Associate - Frontend Engineer
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/reachinbox-assignment.git
+   git clone https://github.com/Narendrasai9999/reachinbox-assignment.git
    cd reachinbox-assignment
 Install dependencies
 
